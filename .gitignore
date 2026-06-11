@@ -1,0 +1,13 @@
+# CSV file
+*.csv
+data/
+
+# Environment
+venv/
+
+# Others
+.git/
+
+# Drawio
+*.drawio
+
